@@ -14,7 +14,7 @@ No rush. One day at a time. Beginner friendly.
 
 ## 🟢 Phase 1 – Fundamentals (Week 1)
 
-- [ ] Day 1: What is a news aggregator? (concept only)
+- [x] Day 1: What is a news aggregator? (concept only)
 - [ ] Day 2: Create required accounts (GitHub, Google)
 - [ ] Day 3: GitHub basics (repo, commit, file)
 - [ ] Day 4: What is GitHub Codespaces?
