@@ -7,7 +7,7 @@ No rush. One day at a time.
 ---
 
 ## Phase 0 – Orientation
-- [ ] Day 0: Setup roadmap & understand end goal
+- [x] Day 0: Setup roadmap & understand end goal
 
 ## Phase 1 – Basics
 - [ ] Day 1: What is a news aggregator?
