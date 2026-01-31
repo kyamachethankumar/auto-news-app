@@ -15,19 +15,19 @@ No rush. One day at a time. Beginner friendly.
 ## 🟢 Phase 1 – Fundamentals (Week 1)
 
 - [x] Day 1: What is a news aggregator? (concept only)
-- [ ] Day 2: Create required accounts (GitHub, Google)
-- [ ] Day 3: GitHub basics (repo, commit, file)
-- [ ] Day 4: What is GitHub Codespaces?
-- [ ] Day 5: What is Flutter and Dart?
-- [ ] Day 6: Frontend vs Backend (very basic)
-- [ ] Day 7: Rest / revision day
+- [x] Day 2: Create required accounts (GitHub, Google)
+- [x] Day 3: GitHub basics (repo, commit, file)
+- [x] Day 4: What is GitHub Codespaces?
+- [x] Day 5: What is Flutter and Dart?
+- [x] Day 6: Frontend vs Backend (very basic)
+- [x] Day 7: Rest / revision day
 
 ---
 
 ## 🟢 Phase 2 – Flutter Basics (Week 2)
 
-- [ ] Day 8: Create Flutter project in Codespaces
-- [ ] Day 9: Run Flutter app (web)
+- [x] Day 8: Create Flutter project in Codespaces
+- [x] Day 9: Run Flutter app (web)
 - [ ] Day 10: Understand Flutter folder structure
 - [ ] Day 11: Change app title & theme
 - [ ] Day 12: Basic widgets (Text, Column, ListView)
